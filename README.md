@@ -21,7 +21,7 @@ Este é o espaço onde passo a maior parte do tempo onde a imaginação e a cria
 
 <br>
 
-🌱Atualmente estou aprendendo sobre front-end no DevClub
+🌱Atualmente estou aprendendo sobre front-end e back-end no DevClub
 
 <br> 
 
