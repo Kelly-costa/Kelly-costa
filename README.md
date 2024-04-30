@@ -7,7 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellyspcosta/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellycosta.tech@gmail.com)
-
 <br/>
 <h2>Technology I study and use daily
   <img align="center" src="https://media0.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif?cid=ecf05e47802sgiy2w5q0ybug4ncwjadownwtcb7fwitn62jz&rid=giphy.gif&ct=s" height="45" width= 40px>
